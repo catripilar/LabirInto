@@ -24,7 +24,7 @@ header .logo{
 }
 header.sticky{padding: 10px 30px;background: rgba(0, 0, 0, 0.4);}
 header .opções{display: none;position: relative;}
-header .opções li{position: relative;list-style: none;margin-bottom: 7%;}
+header .opções li{position: relative;list-style: none;margin-bottom: 4%;}
 header .opções li a.active,header .opções li a:hover{background:#fff;color: #333;}
 header .opções li a{
     position: relative;
@@ -45,7 +45,7 @@ header .opções.active{
     width: 100%;
     height: 100%;
     display: flex;
-    justify-content: center;
+    justify-content: end;
     align-items: center;
     flex-direction: column;   
     background: rgb(0, 0, 0,0.8);
