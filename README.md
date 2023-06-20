@@ -1,3 +1,3 @@
 # LabirInto
-Outro site exemplar de demonstração da TS
+site exemplar de demonstração de trabalho
 Atual link: https://catripilar.github.io/LabirInto/
